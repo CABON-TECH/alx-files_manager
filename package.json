@@ -1,0 +1,17 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "file_manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "boniface mbogho",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.55.0"
+  }
+}
